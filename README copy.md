@@ -1,2 +1,0 @@
-# nextventures
-nextventures technical assessment
