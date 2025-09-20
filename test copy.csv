@@ -1,0 +1,11 @@
+order_number,customer_id,amount,status
+ORD-1001,1,250,pending
+ORD-1002,2,150.5,pending
+ORD-1003,3,300.75,pending
+ORD-1004,4,284.5,pending
+ORD-1005,5,309.875,pending
+ORD-1006,1,335.25,pending
+ORD-1007,2,360.625,pending
+ORD-1008,3,386,pending
+ORD-1009,4,411.375,pending
+ORD-1010,5,436.75,pending
